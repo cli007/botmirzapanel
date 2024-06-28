@@ -656,7 +656,7 @@ try {
         $connect->query("INSERT INTO textbot (id_text,text) VALUES ('text_dec_fq','$text_dec_fq')");
         $connect->query("INSERT INTO textbot (id_text,text) VALUES ('text_account','👤 پروفایل')");
         $connect->query("INSERT INTO textbot (id_text,text) VALUES ('text_sell','🛍 خرید اشتراک')");
-        $connect->query("INSERT INTO textbot (id_text,text) VALUES ('text_Add_Balance','💰 کیف پول')");
+        $connect->query("INSERT INTO textbot (id_text,text) VALUES ('text_Add_Balance','💵 شارژ حساب')");
         $connect->query("INSERT INTO textbot (id_text,text) VALUES ('text_channel','$text_channel')");
         $connect->query("INSERT INTO textbot (id_text,text) VALUES ('text_Discount','🎁 کد هدیه')");
         $connect->query("INSERT INTO textbot (id_text,text) VALUES ('text_Tariff_list','🧮 تعرفه قیمت ها')");
@@ -675,7 +675,7 @@ try {
         $connect->query("INSERT IGNORE INTO textbot (id_text,text) VALUES ('text_dec_fq','$text_dec_fq')");
         $connect->query("INSERT IGNORE INTO textbot (id_text,text) VALUES ('text_account','👤 پروفایل')");
         $connect->query("INSERT IGNORE INTO textbot (id_text,text) VALUES ('text_sell','🛍 خرید اشتراک')");
-        $connect->query("INSERT IGNORE INTO textbot (id_text,text) VALUES ('text_Add_Balance','💰 کیف پول')");
+        $connect->query("INSERT IGNORE INTO textbot (id_text,text) VALUES ('text_Add_Balance','💵 شارژ حساب')");
         $connect->query("INSERT IGNORE INTO textbot (id_text,text) VALUES ('text_channel','$text_channel')");
         $connect->query("INSERT IGNORE INTO textbot (id_text,text) VALUES ('text_Discount','🎁 کد هدیه')");
         $connect->query("INSERT IGNORE INTO textbot (id_text,text) VALUES ('text_Tariff_list','🧮 تعرفه قیمت ها')");
