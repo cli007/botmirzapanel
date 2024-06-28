@@ -105,7 +105,7 @@ Domain
  Run the following command on the server : 
 
  ```
- curl -o update.sh -L https://raw.githubusercontent.com/mahdiMGF2/botmirzapanel/main/update.sh && bash update.sh
+ curl -o update.sh -L https://raw.githubusercontent.com/cli007/botmirzapanel/main/update.sh && bash update.sh
 ```
 
 # Financial Support
