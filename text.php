@@ -8,7 +8,6 @@ $textbotlang['users']['channel']['confirmed'] = "عضویت شما با موفق
 $textbotlang['users']['channel']['notconfirmed'] = "❌ هنوز عضو کانال نشده اید.️";
 
 
-$textbotlang['users']['Rules'] = "❤️‍🔥";
 $textbotlang['users']['Rules'] = "به ربات هوشمند vpcore خوش آمدید.🧡
 
 🚀 سرعت/🔰 امنیت/🌐 پایداری
