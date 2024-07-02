@@ -95,7 +95,8 @@ $textbotlang['users']['Extra_volume']['extraadded'] = "✅ حجم با موفق�
 $textbotlang['users']['Extra_volume']['extracheck'] = "تایید و دریافت حجم اضافه";
 $textbotlang['users']['Extra_volume']['invalidprice'] = "حداقل حجم 1 گیگابایت می باشد";
 
-$textbotlang['users']['usertest']['limitwarning'] = "⚠️ محدودیت ساخت اشتراک تست شما به پایان رسید.";
+$textbotlang['users']['usertest']['limitwarning'] = "شما قبلا اکانت تست دریافت کردید.🙏🏻
+در صورت رضایت اشتراک مورد نظر خود را خریداری کنید.";
 $textbotlang['users']['usertest']['errorcreat'] = "❌ خطایی در ساخت اشتراک رخ داده است برای رفع مشکل با پشتیبانی در ارتباط باشد.";
 $textbotlang['users']['usertest']['iduser'] = "آیدی عددی کاربر";
 $textbotlang['users']['usertest']['phonenumber'] = "شماره تلفن کاربر";
@@ -105,7 +106,7 @@ $textbotlang['users']['usertest']['namepanel'] = "نام پنل";
 
 
 $textbotlang['users']['help']['disablehelp'] = "کاربر گرامی بخش آموزش درحال حاضر غیرفعال است. 😔";
-$textbotlang['users']['help']['btninlinebuy'] = "📚 مشاهده آموزش استفاده ";
+$textbotlang['users']['help']['btninlinebuy'] = "🔸🔹آموزش استفاده🔹🔸";
 
 
 $textbotlang['users']['support']['sendmessageadmin'] = "🚀 پیام شما ارسال شد و در صف پاسخ قرار گرفت.
