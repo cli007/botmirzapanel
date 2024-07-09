@@ -36,7 +36,7 @@ if (!$ok)
 #-------------Variable----------#
 $users_ids = select("user", "id",null,null,"FETCH_COLUMN");
 $setting = select("setting", "*");
-if(!in_array($from_id,$users_ids) && intval($from_id) != 0){
+if(!in_array($from_id,$users_ids)){
     $Response = json_encode([
         'inline_keyboard' => [
             [
